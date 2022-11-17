@@ -1,0 +1,10 @@
+  -Namespace: PascalCase, 128-as hossz, többesszám, A-Za-z0-9, nem tartalmazhat aláhúzást
+  -Osztályok: PascalCase, 128-as hossz, egyesszám, A-Za-z0-9, nem tartalmazhat aláhúzást
+  -Konstruktor: -||-
+  -Függvény: u.a, mint az osztályok, de nem tartalmazhat suffixet
+  -Függvény paraméterek: camelCase, 128-as hossz, többesszám, A-Za-z0-9, nem tartalmazhat aláhúzást
+  -Helyi változók: camelCase, 50-es hossz, többesszám, A-Za-z0-9, nem tartalmazhat aláhúzást
+  -Konstans nevek: PascalCase, 50-es hossz, egyesszám, A-Za-z0-9, nem tartalmazhat aláhúzást
+  -Mezőnév: camelCase, 50-es hossz, többesszám, A-Za-z0-9, tartalmazhat aláhúzást
+  -Képviselő nevek: PascalCase, 128-as hossz, A-Za-z, nem tartalmazhat aláhúzást
+  -Enum típus nevek: PascalCase, 128-as hossz, A-Za-z, nem tartalmazhat aláhúzást
